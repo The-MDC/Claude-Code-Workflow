@@ -46,7 +46,7 @@
     "react-grid-layout": "^1.4.4",
     "react-intl": "^6.8.9",
     "react-markdown": "^10.1.0",
-    "react-router-dom": "^6.28.0",
+    "react-router-dom": "^6.30.6",
     "recharts": "^2.15.0",
     "rehype-highlight": "^7.0.2",
     "rehype-sanitize": "^6.0.0",
